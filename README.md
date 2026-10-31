@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-# cicd-pipeline
-=======
-# cicd
-cicd
->>>>>>> fcf1ed979613d8d06d22fdff3f7745a7f3247ad4
+# CICD Pipeline
+
+React application for the Jenkins CI/CD multibranch pipeline assignment.
+
+Branches:
+- main: Production environment (host port 3000)
+- dev: Development environment (host port 3001)
